@@ -24,10 +24,10 @@
 ### Contoh Percakapan — Complaint
 ![Complaint](screenshots/complaint.jpeg)
 
-### Contoh Percakapan — Complaint
+### Contoh Percakapan — General Info
 ![General Info](screenshots/general-info.jpeg)
 
-### Contoh Percakapan — Complaint
+### Contoh Percakapan — Escalate Human
 ![Escalate Human](screenshots/escalate-human.jpeg)
 
 
